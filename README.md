@@ -4,5 +4,5 @@ This script will let you set up airodump-ng, aireplay-ng, and aircrack-ng in you
 
 ###Setup
 Once you download the script, run it:
-`sudo sh aircrack-auto.sh`
+`sudo sh aircrack-auto.sh`.
 The file should execute correctly.
